@@ -1,6 +1,6 @@
 
 
-# TicTacToc Game 
+# TicTacToe Game 
 
 
 first u need to run the code using copmiler or using dartpad.dev for example
